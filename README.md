@@ -1,7 +1,7 @@
 # Overview of my personal projects
 
 Mostly of my projects are made in C++ and are compiled with my [Makefile helper](https://github.com/Lecrapouille/MyMakefile)
-either as standalone application and/or libraries (so you can include them in your personal project). Simulation projects are made in Julia langage (I used to developed for Scilab but ... the king is dead, long line the king). Else, since I started learning computer science with Delphi Borland I added my student projects.
+either as standalone application and/or libraries (so you can include them in your personal project). Simulation projects are made in Julia langage (I used to developed for Scilab but ... the king is dead, long live the king). Else, since I started learning computer science with Delphi Borland I added my student projects.
 
 ## Chromium Embedded Framework (CEF)
 
