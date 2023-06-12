@@ -1,15 +1,24 @@
 # Overview of my personal projects
 
-Mostly of my projects are made in C++ and are compiled with my [Makefile helper](https://github.com/Lecrapouille/MyMakefile)
-either as standalone application and/or libraries (so you can include them in your personal project). Simulation projects are made in Julia langage (I used to developed for Scilab but ... the king is dead, long live the king). Else, since I started learning computer science with Delphi Borland I added my student projects.
+Most of my projects are made in C++ and can be compiled with my, cloned as git submodule, Makefile [helper](https://github.com/Lecrapouille/MyMakefile) (because I hate so much CMake ...)
+for Linux and MacOS (not for Windows) either as standalone application and/or libraries (so you can include them in your personal project).
+
+I used to worked with [Scilab](http://www.scicoslab.org/) because my [father](https://github.com/jpquadrat/jpquadrat.github.io)
+contributed to it. Now Scilab has passed away ... the King is dead, long live the King: Julia! Therefore my simulation projects are made in Julia and run in Jupyter notebook.
+AFAIK the display is broken (but this is not my fault).
+
+I always been impressed on how compact Forth interpreters are, I tried to impelement mine as scripting langage for my project but I do not recommend you to use it.
+
+Else I also added my student projects (Delphi Borland) and my LaTeX slides (studies and internship reports) made in years 2001--2007 (mostly for nostalgy ^^). A recurrent theme in my projects was
+simulation of city because of this particular project https://github.com/Lecrapouille/SimTaDyn/tree/release-EPITA-2004 mixing geographic system, spreadshet and Forth interpreter.
 
 ## Chromium Embedded Framework (CEF)
 
 - https://github.com/Lecrapouille/gdcef : 
 
   A Godot 3.5 GDNative plugin (C++) using Chromium Embedded Framework to allow you adding a web browser
-  in your 2D or 3D applications. Initialy made for the [Stigmee](https://github.com/stigmee) project.
-  Currently the most liked of all my projects 👋
+  in your 2D or 3D applications. Initialy made for the [Stigmee](https://github.com/stigmee) project but
+  currently the most liked of all my projects 👋
 
 - https://github.com/Lecrapouille/OffScreenCEF :
 
@@ -32,13 +41,14 @@ either as standalone application and/or libraries (so you can include them in yo
 
   Julia package allowing to do computations in the tropical algebra (max,+) and (min,+). An algebra where
   the plus and times operators are replaced by the maximum (minimum) and plus operators. This algebra is 
-  used in modeling discrete systems modeling synchronizations as linear systems.
+  used in modeling discrete systems modeling synchronizations as linear systems. This project is a portage
+  of the Scilab toolbox.
 
 ## City based project
 
 - https://github.com/Lecrapouille/Highway :
 
-  A C++ simulator for autonomous driving research. Not yet released to public.
+  An attempt of a C++ simulator for autonomous driving research.
 
 - https://github.com/Lecrapouille/OpenGlassBox :
 
@@ -53,11 +63,11 @@ either as standalone application and/or libraries (so you can include them in yo
 
   3D project made in Borland Delphi of a city with its traffic jam. Vehicle dynamics. Student project.
 
-## Models and Predictions
-
 - https://github.com/Lecrapouille/CiudadSim
 
   Scilab Traffic Assignment Toolboxes. (I'm not the original author).
+
+## Predictions
 
 - https://github.com/Lecrapouille/GlobalWarming.jl :
 
@@ -104,10 +114,6 @@ either as standalone application and/or libraries (so you can include them in yo
   Continuous integration project for checking if my library project can
   be linked by external project.
 
-- https://github.com/Lecrapouille/ART :
-
-  C++ library of the Adaptive Radix Tree C code. (I'm not the original author). 
-
 ## Forth
 
 - https://github.com/Lecrapouille/SimForth :
@@ -119,7 +125,7 @@ either as standalone application and/or libraries (so you can include them in yo
 
   OpenGL and SDL tutorials for Forth. (I'm not the original author).
 
-## Others projects
+## Application projects
 
 - https://github.com/Lecrapouille/ChessNeuNeu :
 
@@ -153,15 +159,11 @@ either as standalone application and/or libraries (so you can include them in yo
 
 - https://github.com/Lecrapouille/WebSiteGenerator :
 
-  A HTML websites generator based on GNU M4 macros. A saggy ancestor tool of the Markdown langage.
+  A HTML websites generator based on GNU M4 macros. A saggy ancestor tool totally outdated by the Markdown langage.
 
 - https://github.com/Lecrapouille/MyWebSiteSrc :
 
   The code source of my website in M4 langage and parsed by WebSiteGenerator.
-
-- https://github.com/Lecrapouille/GraphicsLessonInGforth :
-
-  OpenGL and SDL tutorials for Forth. (I'm not the original author).
 
 ## My Configs
 
