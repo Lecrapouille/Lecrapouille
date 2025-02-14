@@ -46,4 +46,3 @@ I have a GitHub sponsor page: https://github.com/sponsors/Lecrapouille If you li
 
 ## 🦜 Scilab backup
 - **[Scilab](https://github.com/Lecrapouille/Scilab)**: Scilab backup.
-- **[NSP](https://github.com/Lecrapouille/NSP)**: Scilab's fork backup.
