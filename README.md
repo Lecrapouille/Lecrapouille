@@ -7,7 +7,7 @@ By the way: I have a GitHub sponsor page: https://github.com/sponsors/Lecrapouil
 ## 🤖 Robotics Projects
 
 - **[Arduino Emulator](https://github.com/Lecrapouille/ArduinoEmulator)**: Arduino hardware emulator for testing Arduino sketches without physical hardware.
-- **[BehaviorTree](https://github.com/Lecrapouille/BehaviorTree)**: A lightweight behavior trees C++14 library with a real-time visualizer application.
+- **[Behavior Tree](https://github.com/Lecrapouille/BehaviorTree)**: A lightweight behavior trees C++14 library with a real-time visualizer application.
 - **[Highway](https://github.com/Lecrapouille/Highway)**: Autonomous driving simulator (WIP, currently private).
 - **[Robotik](https://github.com/Lecrapouille/Robotik)**: A C++ robot arms kinematics library (WIP, currently private).
 - **[CAN](https://github.com/Lecrapouille/DBC)**: Python parser for CAN files (private).
@@ -19,9 +19,9 @@ By the way: I have a GitHub sponsor page: https://github.com/sponsors/Lecrapouil
 - **[Zipper](https://github.com/Lecrapouille/zipper)**: C++ zip/unzip wrapper library.
 - **[MQTT](https://github.com/Lecrapouille/MQTT)**: Simple C++ MQTT client library (mosquito wrapper).
 - **[OpenGL C++ Wrapper](https://github.com/Lecrapouille/OpenGLCppWrapper)**: C++ OpenGL Core wrapper.
-- **[DynamicLibrary](https://github.com/Lecrapouille/DynamicLibrary)**: C++ auto-reload shared libraries.
-- **[MyLogger](https://github.com/Lecrapouille/MyLogger)**: Simple C++ logger.
-- **[SimForth](https://github.com/Lecrapouille/SimForth)**: Forth interpreter in C++.
+- **[Dynamic Library](https://github.com/Lecrapouille/DynamicLibrary)**: C++ auto-reload shared libraries.
+- **[My Logger](https://github.com/Lecrapouille/MyLogger)**: Simple C++ logger.
+- **[SimForth](https://github.com/Lecrapouille/SimForth)**: Forth interpreter in C++ for my SimTaDyn project.
 - **[Web Site Generator](https://github.com/Lecrapouille/WebSiteGenerator)**: Static HTML website generator based on GNU M4 macros.
 
 ## 🌐 Web & Browser Tools
@@ -52,7 +52,7 @@ By the way: I have a GitHub sponsor page: https://github.com/sponsors/Lecrapouil
 ## 📚 Learning Projects
 
 - **[Chess NeuNeu](https://github.com/Lecrapouille/ChessNeuNeu)**: Neural networks for chess (for learning ML).
-- **[BacASable](https://github.com/Lecrapouille/BacASable)**: Experimental code playground for my real projects.
+- **[Bac à sable](https://github.com/Lecrapouille/BacASable)**: Experimental code playground for my real projects.
 - **[Graphics Lesson In Gforth](https://github.com/Lecrapouille/GraphicsLessonInGforth)**: OpenGL and SDL tutorials for Forth (I'm not the original author).
 - **[My Student Slides](https://github.com/Lecrapouille/MySlides)**: PDF documents I made when I was a computer science student (in French).
 
@@ -60,7 +60,7 @@ By the way: I have a GitHub sponsor page: https://github.com/sponsors/Lecrapouil
 
 - **[My Dot Emacs](https://github.com/Lecrapouille/DotEmacs)**: Emacs configuration.
 - **[My Bash Prompt](https://github.com/Lecrapouille/MyBashPrompt)**: Bash prompt decorator.
-- **[My VSCode Settings](https://github.com/Lecrapouille/MyVSCodeSettings)**: VSCode configuration and plugins.
+- **[My VSCode Settings](https://github.com/Lecrapouille/MyVSCodeSettings)**: VSCode configuration and extensions I'm using.
 
 ## 🦜 Scilab (I'm not the author)
 
