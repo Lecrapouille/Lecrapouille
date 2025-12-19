@@ -7,7 +7,7 @@ By the way: I have a GitHub sponsor page: https://github.com/sponsors/Lecrapouil
 ## 🤖 Robotics Projects
 
 - **[Arduino Emulator](https://github.com/Lecrapouille/ArduinoEmulator)**: Arduino hardware emulator for testing Arduino sketches without physical hardware.
-- **[Behavior Tree](https://github.com/Lecrapouille/BehaviorTree)**: A lightweight behavior trees C++14 library with a real-time visualizer application.
+- **[Behavior Tree](https://github.com/Lecrapouille/BehaviorTree)**: A lightweight behavior trees C++14 library with a real-time visualizer application (WIP, currently private).
 - **[Highway](https://github.com/Lecrapouille/Highway)**: Autonomous driving simulator (WIP, currently private).
 - **[Robotik](https://github.com/Lecrapouille/Robotik)**: A C++ robot arms kinematics library (WIP, currently private).
 - **[CAN](https://github.com/Lecrapouille/DBC)**: Python parser for CAN files (private).
@@ -24,9 +24,13 @@ By the way: I have a GitHub sponsor page: https://github.com/sponsors/Lecrapouil
 - **[SimForth](https://github.com/Lecrapouille/SimForth)**: Forth interpreter in C++ for my SimTaDyn project.
 - **[Web Site Generator](https://github.com/Lecrapouille/WebSiteGenerator)**: Static HTML website generator based on GNU M4 macros.
 
-## 🌐 Web & Browser Tools
+## 🎮 Godot Extensions
 
 - **[gdCEF](https://github.com/Lecrapouille/gdcef)**: Godot plugin for web browser integration based on Chromium Embedded Framework.
+- **[Prologot](https://github.com/Lecrapouille/Prologot)**: SWI-Prolog for Godot 4 - GDExtension that integrates SWI-Prolog into Godot 4, enabling logic programming in your games.
+
+## 🌐 Web & Browser Tools
+
 - **[Stigmee](https://github.com/stigmee)**: Decentralized web browser and 3D social network (cancelled project).
 - **[Offscreen CEF](https://github.com/Lecrapouille/OffScreenCEF)**: Proof of concept CEF off-screen rendering for OpenGL/SDL2.
 
@@ -61,9 +65,3 @@ By the way: I have a GitHub sponsor page: https://github.com/sponsors/Lecrapouil
 - **[My Dot Emacs](https://github.com/Lecrapouille/DotEmacs)**: Emacs configuration.
 - **[My Bash Prompt](https://github.com/Lecrapouille/MyBashPrompt)**: Bash prompt decorator.
 - **[My VSCode Settings](https://github.com/Lecrapouille/MyVSCodeSettings)**: VSCode configuration and extensions I'm using.
-
-## 🦜 Scilab (I'm not the author)
-
-- **[Scilab](https://github.com/Lecrapouille/Scilab)**: Scilab backup.
-- **[NSP](https://github.com/jpc-cermics/nsp2)**: Official Scilab fork.
-- **[Nelson](https://github.com/nelson-lang/nelson)**: Alternative to Scilab.
