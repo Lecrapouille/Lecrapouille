@@ -7,9 +7,9 @@ By the way: I have a GitHub sponsor page: https://github.com/sponsors/Lecrapouil
 ## 🤖 Robotics Projects
 
 - **[Arduino Emulator](https://github.com/Lecrapouille/ArduinoEmulator)**: Arduino hardware emulator for testing Arduino sketches without physical hardware.
-- **[Behavior Tree](https://github.com/Lecrapouille/BehaviorTree)**: A lightweight behavior trees C++14 library with a real-time visualizer application (WIP, currently private).
+- **[Behavior Tree](https://github.com/Lecrapouille/BlackThorn)**: A lightweight behavior trees C++14 library with a real-time visualizer application (WIP use with care!).
+- **[Robotik](https://github.com/Lecrapouille/Robotik)**: A C++ robot arms kinematics library (WIP, use with care!).
 - **[Highway](https://github.com/Lecrapouille/Highway)**: Autonomous driving simulator (WIP, currently private).
-- **[Robotik](https://github.com/Lecrapouille/Robotik)**: A C++ robot arms kinematics library (WIP, currently private).
 - **[CAN](https://github.com/Lecrapouille/DBC)**: Python parser for CAN files (private).
 - **[Control Law](https://github.com/Lecrapouille/BacASable/tree/master/LawControl)**: Proof of concepts on control law.
 
@@ -27,7 +27,7 @@ By the way: I have a GitHub sponsor page: https://github.com/sponsors/Lecrapouil
 ## 🎮 Godot Extensions
 
 - **[gdCEF](https://github.com/Lecrapouille/gdcef)**: Godot plugin for web browser integration based on Chromium Embedded Framework.
-- **[Prologot](https://github.com/Lecrapouille/Prologot)**: SWI-Prolog for Godot 4 - GDExtension that integrates SWI-Prolog into Godot 4, enabling logic programming in your games.
+- **[Prologot](https://github.com/Lecrapouille/Prologot)**: SWI-Prolog for Godot 4 - GDExtension that integrates SWI-Prolog into Godot 4.
 
 ## 🌐 Web & Browser Tools
 
