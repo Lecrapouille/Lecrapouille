@@ -55,6 +55,7 @@ By the way: I have a GitHub sponsor page: https://github.com/sponsors/Lecrapouil
 
 ## 📚 Learning Projects
 
+- **[G.O.A.P](https://github.com/Lecrapouille/WealthPlanner)**: Learning Goal-Oriented Action Planning and PDDL solvers.
 - **[Chess NeuNeu](https://github.com/Lecrapouille/ChessNeuNeu)**: Neural networks for chess (for learning ML).
 - **[Bac à sable](https://github.com/Lecrapouille/BacASable)**: Experimental code playground for my real projects.
 - **[Graphics Lesson In Gforth](https://github.com/Lecrapouille/GraphicsLessonInGforth)**: OpenGL and SDL tutorials for Forth (I'm not the original author).
