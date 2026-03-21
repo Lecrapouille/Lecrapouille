@@ -2,6 +2,8 @@
 
 For more details about each project, visit the corresponding GitHub repository! 😊
 
+I'm always responding to people but I missed too often GitHub notifications, so I realize months later that people opened a ticket. If this case happens it's better to reach me directly on Discord.
+
 By the way: I have a GitHub sponsor page: https://github.com/sponsors/Lecrapouille. If you like my work, please consider sponsoring me!
 
 ## 🤖 Robotics Projects
