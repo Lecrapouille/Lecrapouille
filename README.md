@@ -55,6 +55,7 @@ Some of my major projects are dual-licensed under GPL-3.0 and a commercial licen
 
 - **[Stigmee](https://github.com/stigmee)**: Decentralized web browser and 3D social network (cancelled project; GitHub organization).
 - **[Offscreen CEF](https://github.com/Lecrapouille/OffScreenCEF)**: Proof-of-concept CEF off-screen rendering for OpenGL/SDL2.
+- **[Islanded Browser](https://github.com/Lecrapouille/IslandedBrowser)**: Proof-of-concept for displaying your browser bookmarks as an 2D or 3D island.
 - **[Web Site Generator](https://github.com/Lecrapouille/WebSiteGenerator)**: Static HTML website generator based on GNU M4 macros. This is an obsolete project, created before Markdown became common.
 
 ## 📚 Learning Projects
